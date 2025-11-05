@@ -1,0 +1,13 @@
+1 Olfactory_Areas_
+2 Cortical_Subplate_
+3 Pallidum_
+4 Cerebellar_Nuclei_
+5 Pons_
+6 Thalamus_
+7 Hippocampal_Formation_
+8 Medulla_
+9 Cerebellar_Cortex_
+10 Midbrain_
+11 Hypothalamus_
+12 Striatum_
+13 Isocortex_

@@ -1,0 +1,81 @@
+================================================================================
+Common Cross-Species Atlas — Atlas Licensing Information
+================================================================================
+
+This directory contains the **minimal necessary atlas files for reproducibility**
+of the **Common Cross-Species Atlas (Release 1.0)**.
+
+--------------------------------------------------------------------------------
+File Naming and Provenance
+--------------------------------------------------------------------------------
+
+The official public release atlases are available at:
+
+    https://github.com/frankyeh/data-atlas
+
+and are distributed there as:
+
+    <species>_CHA.nii.gz
+
+The corresponding files included here are named:
+
+    cha_<species>.nii.gz
+
+These files are direct derivatives of the public release and include placeholder
+regions for a small set of areas that were omitted from the official release due
+to incomplete cross-species correspondence:
+
+    • OLF_Claustrum  
+    • BG_Substantia_Nigra  
+    • THL_Subthalamus  
+    • CBL  
+    • BST
+
+The placeholders serve only as approximate anatomical references and are retained
+to preserve continuity with intermediate analyses and figure generation.  
+However, all current quantitative analyses and visualizations **explicitly exclude**
+these regions to remain consistent with the official Release 1.0 dataset.
+
+--------------------------------------------------------------------------------
+Source and License Information
+--------------------------------------------------------------------------------
+
+Each atlas is derived from the corresponding species atlas distributed through
+the DSI Studio **data-atlas** repository. Users must follow the **license, citation,
+and usage terms** specified there:
+
+    https://github.com/frankyeh/data-atlas/<species>/
+
+Examples:
+    • https://github.com/frankyeh/data-atlas/mouse/
+    • https://github.com/frankyeh/data-atlas/marmoset/
+    • https://github.com/frankyeh/data-atlas/rhesus/
+
+Some species provide explicit `license.txt` files, while others are covered under
+the general DSI Studio usage policy.
+
+--------------------------------------------------------------------------------
+Usage
+--------------------------------------------------------------------------------
+
+These atlases are provided **solely for research and non-commercial use**.
+When publishing or redistributing results derived from these data, please:
+
+1. Cite the **Common Cross-Species Atlas (bioRxiv 2025.09.08.675002)**, and  
+2. Acknowledge the **original source atlas and institution** according to the
+   license and citation terms provided in the DSI Studio repository.
+
+--------------------------------------------------------------------------------
+Contact
+--------------------------------------------------------------------------------
+
+For details on atlas integration or derived analyses, contact:
+
+Dr. Fang-Cheng Yeh  
+DSI Studio / University of Pittsburgh  
+https://dsi-studio.labsolver.org/
+
+--------------------------------------------------------------------------------
+© 2025 OmniConnect-ModelForge Project.  
+All underlying atlas copyrights remain with their respective creators.
+================================================================================

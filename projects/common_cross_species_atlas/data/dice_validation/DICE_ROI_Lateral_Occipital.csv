@@ -1,0 +1,6 @@
+,Common_atlas_space-MNI152NLin6_res-1x1x1.nii.gz,Desikan_space-MNI152NLin6_res-1x1x1.nii.gz,AICHAJoliot2015_space-MNI152NLin6_res-1x1x1.nii.gz,HarvardOxfordcort-maxprob-thr25_space-MNI152NLin6_res-1x1x1.nii.gz,Glasser_space-MNI152NLin6_res-1x1x1.nii.gz
+Common_atlas_space-MNI152NLin6_res-1x1x1.nii.gz,1,0.438479157,0.360943941,0.375970557,0.089081225
+Desikan_space-MNI152NLin6_res-1x1x1.nii.gz,0.438479157,1,0.518116246,0.240181217,0.091726132
+AICHAJoliot2015_space-MNI152NLin6_res-1x1x1.nii.gz,0.360943941,0.518116246,1,0.222992875,0.112919634
+HarvardOxfordcort-maxprob-thr25_space-MNI152NLin6_res-1x1x1.nii.gz,0.375970557,0.240181217,0.222992875,1,0.059815594
+Glasser_space-MNI152NLin6_res-1x1x1.nii.gz,0.089081225,0.091726132,0.112919634,0.059815594,1

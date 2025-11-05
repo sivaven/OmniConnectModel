@@ -1,0 +1,5 @@
+,Common_atlas_space-MNI152NLin6_res-1x1x1.nii.gz,AICHAJoliot2015_space-MNI152NLin6_res-1x1x1.nii.gz,Destrieux_space-MNI152NLin6_res-1x1x1.nii.gz,AAL_space-MNI152NLin6_res-1x1x1.nii.gz
+Common_atlas_space-MNI152NLin6_res-1x1x1.nii.gz,1.0,0.1083673469387755,0.6110248447204969,0.0
+AICHAJoliot2015_space-MNI152NLin6_res-1x1x1.nii.gz,0.1083673469387755,1.0,0.0913937547600914,0.0
+Destrieux_space-MNI152NLin6_res-1x1x1.nii.gz,0.6110248447204969,0.0913937547600914,1.0,0.0
+AAL_space-MNI152NLin6_res-1x1x1.nii.gz,0.0,0.0,0.0,1.0

@@ -1,0 +1,4 @@
+,Common_atlas_space-MNI152NLin6_res-1x1x1.nii.gz,Juelich_space-MNI152NLin6_res-1x1x1.nii.gz,Glasser_space-MNI152NLin6_res-1x1x1.nii.gz
+Common_atlas_space-MNI152NLin6_res-1x1x1.nii.gz,1.0,0.3108587156282935,0.01837067101011989
+Juelich_space-MNI152NLin6_res-1x1x1.nii.gz,0.3108587156282935,1.0,0.010053222945002957
+Glasser_space-MNI152NLin6_res-1x1x1.nii.gz,0.01837067101011989,0.010053222945002957,1.0
