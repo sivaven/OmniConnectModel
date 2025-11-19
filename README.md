@@ -1,4 +1,4 @@
-# OmniConnect-ModelForge
+# OmniConnectModel
 
 This repository is an **umbrella project** for computational neuroscience tools and models.  
 It integrates multiple approaches to studying brain networks across scales, from **cross-species atlases** to **directed connectomes** and **network modeling**.
@@ -10,7 +10,7 @@ It integrates multiple approaches to studying brain networks across scales, from
 All projects live under the `projects/` directory. Each project includes its own README and `requirements.txt`.
 
 ```
-OmniConnect-ModelForge/
+OmniConnectModel/
 ├── README.md              # Top-level overview (this file)
 ├── LICENSE                # MIT license for the whole repository
 │
@@ -57,7 +57,7 @@ Includes tractography shell scripts, connectome construction, validation, and st
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/OmniConnect-ModelForge.git
+git clone https://github.com/<your-username>/OmniConnectModel.git
 cd OmniConnect-ModelForge
 ```
 
