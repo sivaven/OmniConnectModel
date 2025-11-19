@@ -1,6 +1,6 @@
 # Common Cross-Species Atlas
 
-This project is part of the **OmniConnect-ModelForge** umbrella repository.  
+This project is part of the **OmniConnectModel** umbrella repository.  
 It contains the quantitative analyses and figure generation code for:
 
 > **A common cross-species atlas of cortical gray matter**  
