@@ -31,7 +31,7 @@ Includes the hierarchical parcellation framework, volumetric statistics, and atl
 
 📄 [Project README](projects/common_cross_species_atlas/README.md)  
 📖 Citation:  
-> **A common cross-species atlas of cortical gray matter.**  
+> **A hierarchical framework for cortical and subcortical gray-matter parcellation across rodents, primates, and humans**  
 > Siva Venkadesh, Yuhe Tian, Wen-Jieh Linn, Jessica Barrios Martinez, Harrison Mansour, James Cook,  
 > David J. Schaeffer, Diego Szczupak, Afonso C. Silva, G Allan Johnson, Fang-Cheng Yeh.  
 > *bioRxiv* (2025). doi: [10.1101/2025.09.08.675002](https://doi.org/10.1101/2025.09.08.675002)
