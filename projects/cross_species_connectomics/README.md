@@ -1,6 +1,6 @@
 # Cross-Species Connectomics
 
-This project is part of the **OmniConnect-ModelForge** umbrella repository.  
+This project is part of the **OmniConnectModel** umbrella repository.  
 It implements a framework for constructing **directed connectomes** across mouse, marmoset, rhesus macaque, and human, integrating tracer-derived projection polarity with species-specific diffusion MRI (dMRI) tractography.  
 
 ---
