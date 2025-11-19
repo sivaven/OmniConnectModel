@@ -3,7 +3,7 @@
 This project is part of the **OmniConnectModel** umbrella repository.  
 It contains the quantitative analyses and figure generation code for:
 
-> **A common cross-species atlas of cortical gray matter**  
+> **A hierarchical framework for cortical and subcortical gray-matter parcellation across rodents, primates, and humans**  
 > Siva Venkadesh, Yuhe Tian, Wen-Jieh Linn, Jessica Barrios Martinez, Harrison Mansour, James Cook, David J. Schaeffer, Diego Szczupak, Afonso C. Silva, G Allan Johnson, Fang-Cheng Yeh.  
 > *bioRxiv* (2025). [doi: 10.1101/2025.09.08.675002](https://doi.org/10.1101/2025.09.08.675002)
 
@@ -69,7 +69,7 @@ Dependency versions are pinned in `requirements.txt` to ensure compatibility.
 
 Please cite both the manuscript and this repository:
 
-> **A common cross-species atlas of cortical gray matter**  
+> **A hierarchical framework for cortical and subcortical gray-matter parcellation across rodents, primates, and humans**  
 > Siva Venkadesh et al., *bioRxiv* (2025). [10.1101/2025.09.08.675002](https://doi.org/10.1101/2025.09.08.675002)
 
 ---
