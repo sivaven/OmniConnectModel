@@ -66,16 +66,6 @@ When publishing or redistributing results derived from these data, please:
    license and citation terms provided in the DSI Studio repository.
 
 --------------------------------------------------------------------------------
-Contact
---------------------------------------------------------------------------------
-
-For details on atlas integration or derived analyses, contact:
-
-Dr. Fang-Cheng Yeh  
-DSI Studio / University of Pittsburgh  
-https://dsi-studio.labsolver.org/
-
---------------------------------------------------------------------------------
 © 2025 OmniConnect-ModelForge Project.  
 All underlying atlas copyrights remain with their respective creators.
 ================================================================================

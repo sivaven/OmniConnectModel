@@ -13,13 +13,18 @@ It contains the quantitative analyses and figure generation code for:
 
 ```
 projects/common_cross_species_atlas/
-├── README.md                  # Project-specific documentation (this file)
-├── requirements.txt           # Dependencies for notebook execution
-├── CHA_quants.ipynb           # Main notebook: generates all manuscript figures
-└── data/                      # Minimal dataset used in analyses
-    ├── atlases/               # Species atlases and overlap metrics
-    ├── roistats/              # Regional volumetric statistics
-    └── dice_validation/       # Dice matrices from NEUROPARC atlases
+├── README.md                   				# Project-specific documentation (this file)
+├── requirements.txt            				# Dependencies for notebook execution
+├── CHA_quants.ipynb            				# Main notebook 1: generates Figures 4 and 5 all panels
+├── CHA_Validation_Tracer.ipynb 				# Main notebook 2: generates Figure 6 all panels
+├── CHA_Validation_Homology_Confidence.ipynb   # Main notebook 3: generates Figure 7 all panels
+└── data/                       				# Minimal dataset used in analyses
+    ├── atlas/               					# Species atlases and overlap metrics
+    ├── roistats/               				# Regional volumetric statistics
+    ├── primate_tracer/               			# Marmoset tracer data download and analysis outputs
+    ├── homology_confidence/               	# analysis outputs from homology confidence (figure 7)
+    └── dice_validation/        				# Dice matrices from NEUROPARC atlases
+	
 ```
 
 ---
@@ -40,7 +45,7 @@ pip install -r requirements.txt
 Launch the notebook to reproduce all quantitative results and figures:
 
 ```bash
-jupyter notebook CHA_quants.ipynb
+jupyter notebook CHA_<notebookd 1, 2 or 3>.ipynb
 ```
 
 All figures are displayed inline within the notebook.
@@ -50,9 +55,12 @@ All figures are displayed inline within the notebook.
 ## Data Organization
 
 The `data/` folder contains the subdirectories required for the analyses:
-- `atlases/` — Atlas files and overlap metrics used in validation for each species.  
+- `atlas/` — Atlas files and overlap metrics used in validation for each species.  
 - `roistats/` — Regional volumetric data used for quantitative comparisons.  
 - `dice_validation/` — Dice matrices generated using NEUROPARC atlases.
+- `primate_tracer/` — Marmoset tracer data download, analysis and intermediate outputs.
+- `homology_confidence/` — Analysis and intermediate outputs from homology confidence (figure 7).
+
 
 Please follow the **license information provided in each atlas’s `license.txt`** when using these datasets.
 

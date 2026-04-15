@@ -1,0 +1,1267 @@
+{
+  "status": "success",
+  "timestamp": 1772045909,
+  "areas": {
+    "is_leaf": false,
+    "human_readable_abbrev": "ProCeph",
+    "color_code": "#00FF28",
+    "abbrev": "ProCeph",
+    "nodes": [
+      {
+        "is_leaf": false,
+        "human_readable_abbrev": "TelCeph",
+        "color_code": "#0EFF00",
+        "abbrev": "TelCeph",
+        "nodes": [
+          {
+            "is_leaf": false,
+            "human_readable_abbrev": "Pal",
+            "color_code": "#3FFF00",
+            "abbrev": "Pal",
+            "nodes": [
+              {
+                "is_leaf": false,
+                "human_readable_abbrev": "DPal",
+                "color_code": "#FFEA59",
+                "abbrev": "DPal",
+                "nodes": [
+                  {
+                    "is_leaf": false,
+                    "human_readable_abbrev": "DLP",
+                    "color_code": "#EF8759",
+                    "abbrev": "DLP",
+                    "nodes": [
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A10",
+                        "color_code": "#FF6D3B",
+                        "abbrev": "A10",
+                        "nodes": [],
+                        "id": 2,
+                        "name": "Area 10 of cortex"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A46D",
+                        "color_code": "#E99676",
+                        "abbrev": "A46D",
+                        "nodes": [],
+                        "id": 32,
+                        "name": "Area 46 of cortex, dorsal part"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A46V",
+                        "color_code": "#FF9D76",
+                        "abbrev": "A46V",
+                        "nodes": [],
+                        "id": 33,
+                        "name": "Area 46 of cortex, ventral part"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A8aD",
+                        "color_code": "#E96F3B",
+                        "abbrev": "A8aD",
+                        "nodes": [],
+                        "id": 45,
+                        "name": "Area 8a of cortex, dorsal part"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A8aV",
+                        "color_code": "#FFCAB2",
+                        "abbrev": "A8aV",
+                        "nodes": [],
+                        "id": 46,
+                        "name": "Area 8a of cortex, ventral part"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A8b",
+                        "color_code": "#FF5300",
+                        "abbrev": "A8b",
+                        "nodes": [],
+                        "id": 47,
+                        "name": "Area 8b of cortex"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A9",
+                        "color_code": "#E95000",
+                        "abbrev": "A9",
+                        "nodes": [],
+                        "id": 48,
+                        "name": "Area 9 of cortex"
+                      }
+                    ],
+                    "id": 68,
+                    "name": "Dorsolateral prefrontal cortex"
+                  },
+                  {
+                    "is_leaf": false,
+                    "human_readable_abbrev": "VLP",
+                    "color_code": "#A3FF59",
+                    "abbrev": "VLP",
+                    "nodes": [
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A45",
+                        "color_code": "#72E900",
+                        "abbrev": "A45",
+                        "nodes": [],
+                        "id": 31,
+                        "name": "Area 45 of cortex"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A47L(12L)",
+                        "color_code": "#D6FFB2",
+                        "abbrev": "A47L(12L)",
+                        "nodes": [],
+                        "id": 34,
+                        "name": "Area 47 (old 12) of cortex, lateral part"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A47M(12M)",
+                        "color_code": "#73FF00",
+                        "abbrev": "A47M(12M)",
+                        "nodes": [],
+                        "id": 35,
+                        "name": "Area 47 (old 12) of cortex, medial part"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A47O(12O)",
+                        "color_code": "#A0FF59",
+                        "abbrev": "A47O(12O)",
+                        "nodes": [],
+                        "id": 36,
+                        "name": "Area 47 (old 12) of cortex, orbital part"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "ProM(PrCO)",
+                        "color_code": "#94E959",
+                        "abbrev": "ProM(PrCO)",
+                        "nodes": [],
+                        "id": 103,
+                        "name": "Proisocortical motor region (precentral opercular cortex)"
+                      }
+                    ],
+                    "id": 137,
+                    "name": "Ventrolateral prefrontal cortex"
+                  },
+                  {
+                    "is_leaf": false,
+                    "human_readable_abbrev": "MPC",
+                    "color_code": "#CF8C00",
+                    "abbrev": "MPC",
+                    "nodes": [
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A32",
+                        "color_code": "#FFB100",
+                        "abbrev": "A32",
+                        "nodes": [],
+                        "id": 25,
+                        "name": "Area 32 of cortex"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A32V",
+                        "color_code": "#FFCF59",
+                        "abbrev": "A32V",
+                        "nodes": [],
+                        "id": 26,
+                        "name": "Area 32 of cortex, ventral part"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A14R",
+                        "color_code": "#E9B759",
+                        "abbrev": "A14R",
+                        "nodes": [],
+                        "id": 9,
+                        "name": "Area 14 of cortex, rostral part"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A14C",
+                        "color_code": "#E99400",
+                        "abbrev": "A14C",
+                        "nodes": [],
+                        "id": 8,
+                        "name": "Area 14 of cortex, caudal part"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A25",
+                        "color_code": "#FFE6B2",
+                        "abbrev": "A25",
+                        "nodes": [],
+                        "id": 20,
+                        "name": "Area 25 of cortex"
+                      }
+                    ],
+                    "id": 80,
+                    "name": "Medial prefrontal cortex"
+                  },
+                  {
+                    "is_leaf": false,
+                    "human_readable_abbrev": "ACC",
+                    "color_code": "#DF6059",
+                    "abbrev": "ACC",
+                    "nodes": [
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A24a",
+                        "color_code": "#FFB3B2",
+                        "abbrev": "A24a",
+                        "nodes": [],
+                        "id": 16,
+                        "name": "Area 24a of cortex"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A24b",
+                        "color_code": "#DF0800",
+                        "abbrev": "A24b",
+                        "nodes": [],
+                        "id": 17,
+                        "name": "Area 24b of cortex"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A24c",
+                        "color_code": "#FF6359",
+                        "abbrev": "A24c",
+                        "nodes": [],
+                        "id": 18,
+                        "name": "Area 24c of cortex"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A24d",
+                        "color_code": "#FF1600",
+                        "abbrev": "A24d",
+                        "nodes": [],
+                        "id": 19,
+                        "name": "Area 24d of cortex"
+                      }
+                    ],
+                    "id": 49,
+                    "name": "Anterior cingulate cortex"
+                  },
+                  {
+                    "is_leaf": false,
+                    "human_readable_abbrev": "OFC",
+                    "color_code": "#FFD62C",
+                    "abbrev": "OFC",
+                    "nodes": [
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A11",
+                        "color_code": "#E9BF3B",
+                        "abbrev": "A11",
+                        "nodes": [],
+                        "id": 3,
+                        "name": "Area 11 of cortex"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A13a",
+                        "color_code": "#D4A800",
+                        "abbrev": "A13a",
+                        "nodes": [],
+                        "id": 6,
+                        "name": "Area 13a of cortex"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A13b",
+                        "color_code": "#E9BC00",
+                        "abbrev": "A13b",
+                        "nodes": [],
+                        "id": 7,
+                        "name": "Area 13b of cortex"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A13L",
+                        "color_code": "#E9CF76",
+                        "abbrev": "A13L",
+                        "nodes": [],
+                        "id": 4,
+                        "name": "Area 13 of cortex, lateral part"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A13M",
+                        "color_code": "#FFC700",
+                        "abbrev": "A13M",
+                        "nodes": [],
+                        "id": 5,
+                        "name": "Area 13 of cortex, medial part"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "OPAl",
+                        "color_code": "#FFE876",
+                        "abbrev": "OPAl",
+                        "nodes": [],
+                        "id": 83,
+                        "name": "Orbital periallocortex"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "OPro",
+                        "color_code": "#FFF3B2",
+                        "abbrev": "OPro",
+                        "nodes": [],
+                        "id": 84,
+                        "name": "Orbital proisocortex"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "Gu",
+                        "color_code": "#FFDB3B",
+                        "abbrev": "Gu",
+                        "nodes": [],
+                        "id": 73,
+                        "name": "Gustatory cortex"
+                      }
+                    ],
+                    "id": 82,
+                    "name": "Orbital frontal cortex"
+                  },
+                  {
+                    "is_leaf": false,
+                    "human_readable_abbrev": "PRM",
+                    "color_code": "#B1CF2C",
+                    "abbrev": "PRM",
+                    "nodes": [
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A4ab",
+                        "color_code": "#EDFF76",
+                        "abbrev": "A4ab",
+                        "nodes": [],
+                        "id": 37,
+                        "name": "Area 4 of cortex, parts a and b (primary motor)"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A4c",
+                        "color_code": "#C8E900",
+                        "abbrev": "A4c",
+                        "nodes": [],
+                        "id": 38,
+                        "name": "Area 4 of cortex, part c (primary motor)"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A6DC",
+                        "color_code": "#E0FF3B",
+                        "abbrev": "A6DC",
+                        "nodes": [],
+                        "id": 39,
+                        "name": "Area 6 of cortex, dorsocaudal part"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A6DR",
+                        "color_code": "#B0D400",
+                        "abbrev": "A6DR",
+                        "nodes": [],
+                        "id": 40,
+                        "name": "Area 6 of cortex, dorsorostral part"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A6M",
+                        "color_code": "#D0FF00",
+                        "abbrev": "A6M",
+                        "nodes": [],
+                        "id": 41,
+                        "name": "Area 6 of cortex, medial (supplementary motor) part"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A6Va",
+                        "color_code": "#C8E93B",
+                        "abbrev": "A6Va",
+                        "nodes": [],
+                        "id": 42,
+                        "name": "Area 6 of cortex, ventral, part a"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A6Vb",
+                        "color_code": "#EFFFB2",
+                        "abbrev": "A6Vb",
+                        "nodes": [],
+                        "id": 43,
+                        "name": "Area 6 of cortex, ventral, part b"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A8C",
+                        "color_code": "#D0E976",
+                        "abbrev": "A8C",
+                        "nodes": [],
+                        "id": 44,
+                        "name": "Area 8 of cortex, caudal part"
+                      }
+                    ],
+                    "id": 95,
+                    "name": "Motor and premotor cortical regions"
+                  },
+                  {
+                    "is_leaf": false,
+                    "human_readable_abbrev": "SSC",
+                    "color_code": "#B1FF00",
+                    "abbrev": "SSC",
+                    "nodes": [
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A1/2",
+                        "color_code": "#BDE93B",
+                        "abbrev": "A1/2",
+                        "nodes": [],
+                        "id": 1,
+                        "name": "Areas 1 and 2 of cortex"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A3a",
+                        "color_code": "#CAFF3B",
+                        "abbrev": "A3a",
+                        "nodes": [],
+                        "id": 29,
+                        "name": "Area 3a of cortex (somatosensory)"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A3b",
+                        "color_code": "#D8FF76",
+                        "abbrev": "A3b",
+                        "nodes": [],
+                        "id": 30,
+                        "name": "Area 3b of cortex (somatosensory)"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "S2E",
+                        "color_code": "#E8FFB2",
+                        "abbrev": "S2E",
+                        "nodes": [],
+                        "id": 106,
+                        "name": "Secondary somatosensory cortex, external part"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "S2I",
+                        "color_code": "#C5E976",
+                        "abbrev": "S2I",
+                        "nodes": [],
+                        "id": 107,
+                        "name": "Secondary somatosensory cortex, internal part"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "S2PR",
+                        "color_code": "#9DE900",
+                        "abbrev": "S2PR",
+                        "nodes": [],
+                        "id": 108,
+                        "name": "Secondary somatosensory cortex, parietal rostral area"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "S2PV",
+                        "color_code": "#A7FF00",
+                        "abbrev": "S2PV",
+                        "nodes": [],
+                        "id": 109,
+                        "name": "Secondary somatosensory cortex, parietal ventral area"
+                      }
+                    ],
+                    "id": 110,
+                    "name": "Somatosensory cortex"
+                  },
+                  {
+                    "is_leaf": false,
+                    "human_readable_abbrev": "AUD",
+                    "color_code": "#EF2B00",
+                    "abbrev": "AUD",
+                    "nodes": [
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "AuA1",
+                        "color_code": "#DF1C00",
+                        "abbrev": "AuA1",
+                        "nodes": [],
+                        "id": 54,
+                        "name": "Auditory cortex, primary area"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "AuAL",
+                        "color_code": "#EF472C",
+                        "abbrev": "AuAL",
+                        "nodes": [],
+                        "id": 55,
+                        "name": "Auditory cortex, anterolateral area"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "AuCL",
+                        "color_code": "#EF6E59",
+                        "abbrev": "AuCL",
+                        "nodes": [],
+                        "id": 56,
+                        "name": "Auditory cortex, caudolateral area"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "AuCM",
+                        "color_code": "#EF2300",
+                        "abbrev": "AuCM",
+                        "nodes": [],
+                        "id": 57,
+                        "name": "Auditory cortex, caudomedial area"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "AuCPB",
+                        "color_code": "#FF4D2C",
+                        "abbrev": "AuCPB",
+                        "nodes": [],
+                        "id": 58,
+                        "name": "Auditory cortex, caudal parabelt area"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "AuML",
+                        "color_code": "#FF2900",
+                        "abbrev": "AuML",
+                        "nodes": [],
+                        "id": 59,
+                        "name": "Auditory cortex, middle lateral area"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "AuR",
+                        "color_code": "#DF7059",
+                        "abbrev": "AuR",
+                        "nodes": [],
+                        "id": 60,
+                        "name": "Auditory cortex, rostral area"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "AuRM",
+                        "color_code": "#DF9585",
+                        "abbrev": "AuRM",
+                        "nodes": [],
+                        "id": 61,
+                        "name": "Auditory cortex, rostromedial area"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "AuRPB",
+                        "color_code": "#CF4A2C",
+                        "abbrev": "AuRPB",
+                        "nodes": [],
+                        "id": 62,
+                        "name": "Auditory cortex, rostral parabelt"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "AuRTL",
+                        "color_code": "#EF9A85",
+                        "abbrev": "AuRTL",
+                        "nodes": [],
+                        "id": 64,
+                        "name": "Auditory cortex, rostrotemporal lateral area"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "AuRTM",
+                        "color_code": "#CF2B00",
+                        "abbrev": "AuRTM",
+                        "nodes": [],
+                        "id": 65,
+                        "name": "Auditory cortex, rostrotemporal medial area"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "AuRT",
+                        "color_code": "#FF7959",
+                        "abbrev": "AuRT",
+                        "nodes": [],
+                        "id": 63,
+                        "name": "Auditory cortex, rostrotemporal"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "STR",
+                        "color_code": "#FF9F85",
+                        "abbrev": "STR",
+                        "nodes": [],
+                        "id": 111,
+                        "name": "Superior temporal rostral area (cortex)"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "TPt",
+                        "color_code": "#DF542C",
+                        "abbrev": "TPt",
+                        "nodes": [],
+                        "id": 124,
+                        "name": "Temporoparietal transitional area"
+                      }
+                    ],
+                    "id": 53,
+                    "name": "Auditory cortex"
+                  },
+                  {
+                    "is_leaf": false,
+                    "human_readable_abbrev": "INS",
+                    "color_code": "#EF802C",
+                    "abbrev": "INS",
+                    "nodes": [
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "AI",
+                        "color_code": "#E95900",
+                        "abbrev": "AI",
+                        "nodes": [],
+                        "id": 50,
+                        "name": "Agranular insular cortex"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "DI",
+                        "color_code": "#E9A476",
+                        "abbrev": "DI",
+                        "nodes": [],
+                        "id": 67,
+                        "name": "Dysgranular insular cortex"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "GI",
+                        "color_code": "#D45600",
+                        "abbrev": "GI",
+                        "nodes": [],
+                        "id": 72,
+                        "name": "Granular insular cortex"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "IPro",
+                        "color_code": "#FFD2B2",
+                        "abbrev": "IPro",
+                        "nodes": [],
+                        "id": 75,
+                        "name": "Insular proisocortex"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "PaIL",
+                        "color_code": "#FF6E00",
+                        "abbrev": "PaIL",
+                        "nodes": [],
+                        "id": 96,
+                        "name": "Parainsular cortex, lateral part"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "PaIM",
+                        "color_code": "#FFB376",
+                        "abbrev": "PaIM",
+                        "nodes": [],
+                        "id": 97,
+                        "name": "Parainsular cortex, medial part"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "ReI",
+                        "color_code": "#E98B3B",
+                        "abbrev": "ReI",
+                        "nodes": [],
+                        "id": 105,
+                        "name": "Retroinsular area (cortex)"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "TPro",
+                        "color_code": "#FF973B",
+                        "abbrev": "TPro",
+                        "nodes": [],
+                        "id": 123,
+                        "name": "Temporal proisocortex"
+                      }
+                    ],
+                    "id": 74,
+                    "name": "Insular cortex"
+                  },
+                  {
+                    "is_leaf": false,
+                    "human_readable_abbrev": "LIT",
+                    "color_code": "#FFC985",
+                    "abbrev": "LIT",
+                    "nodes": [
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "PGa/IPa(FSTv)",
+                        "color_code": "#FF9E3B",
+                        "abbrev": "PGa/IPa(FSTv)",
+                        "nodes": [],
+                        "id": 93,
+                        "name": "Parietal areas PGa and IPa (fundus of superior temporal ventral area)"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "TE1",
+                        "color_code": "#E9963B",
+                        "abbrev": "TE1",
+                        "nodes": [],
+                        "id": 112,
+                        "name": "Temporal area TE1 (inferior temporal cortex)"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "TE2",
+                        "color_code": "#E9B476",
+                        "abbrev": "TE2",
+                        "nodes": [],
+                        "id": 113,
+                        "name": "Temporal area TE2 (inferior temporal cortex)"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "TE3",
+                        "color_code": "#E98000",
+                        "abbrev": "TE3",
+                        "nodes": [],
+                        "id": 114,
+                        "name": "Temporal area TE3 (inferior temporal cortex)"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "TEO",
+                        "color_code": "#FFDDB2",
+                        "abbrev": "TEO",
+                        "nodes": [],
+                        "id": 115,
+                        "name": "Temporal area TE, occipital part"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "TPO(STP)",
+                        "color_code": "#FFC576",
+                        "abbrev": "TPO(STP)",
+                        "nodes": [],
+                        "id": 121,
+                        "name": "Temporo-parieto-occipital association area (superior temporal polysensory cortex)"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "TPPro",
+                        "color_code": "#FF9700",
+                        "abbrev": "TPPro",
+                        "nodes": [],
+                        "id": 122,
+                        "name": "Temporopolar proisocortex"
+                      }
+                    ],
+                    "id": 77,
+                    "name": "Lateral and inferior temporal cortical region"
+                  },
+                  {
+                    "is_leaf": false,
+                    "human_readable_abbrev": "VTC",
+                    "color_code": "#A2DF85",
+                    "abbrev": "VTC",
+                    "nodes": [
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A35",
+                        "color_code": "#4ED400",
+                        "abbrev": "A35",
+                        "nodes": [],
+                        "id": 27,
+                        "name": "Area 35 of cortex"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A36",
+                        "color_code": "#A0E976",
+                        "abbrev": "A36",
+                        "nodes": [],
+                        "id": 28,
+                        "name": "Area 36 of cortex"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "Ent",
+                        "color_code": "#50E900",
+                        "abbrev": "Ent",
+                        "nodes": [],
+                        "id": 70,
+                        "name": "Entorhinal cortex"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "TF",
+                        "color_code": "#CBFFB2",
+                        "abbrev": "TF",
+                        "nodes": [],
+                        "id": 116,
+                        "name": "Temporal area TF"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "TFO",
+                        "color_code": "#51FF00",
+                        "abbrev": "TFO",
+                        "nodes": [],
+                        "id": 117,
+                        "name": "Temporal area TF, occipital part"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "TH",
+                        "color_code": "#71E93B",
+                        "abbrev": "TH",
+                        "nodes": [],
+                        "id": 118,
+                        "name": "Temporal area TH"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "TL",
+                        "color_code": "#75FF3B",
+                        "abbrev": "TL",
+                        "nodes": [],
+                        "id": 119,
+                        "name": "Temporal area TL"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "TLO",
+                        "color_code": "#9DFF76",
+                        "abbrev": "TLO",
+                        "nodes": [],
+                        "id": 120,
+                        "name": "Temporal area TL, occipital part"
+                      }
+                    ],
+                    "id": 139,
+                    "name": "Ventral areas of the temporal lobe"
+                  },
+                  {
+                    "is_leaf": false,
+                    "human_readable_abbrev": "PPC",
+                    "color_code": "#D2DF00",
+                    "abbrev": "PPC",
+                    "nodes": [
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "AIP",
+                        "color_code": "#FEFF76",
+                        "abbrev": "AIP",
+                        "nodes": [],
+                        "id": 51,
+                        "name": "Anterior intraparietal area of cortex"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "LIP",
+                        "color_code": "#DDDF76",
+                        "abbrev": "LIP",
+                        "nodes": [],
+                        "id": 76,
+                        "name": "Lateral intraparietal area of cortex"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "MIP",
+                        "color_code": "#EAEF3B",
+                        "abbrev": "MIP",
+                        "nodes": [],
+                        "id": 79,
+                        "name": "Medial intraparietal area of cortex"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "OPt",
+                        "color_code": "#E6EF00",
+                        "abbrev": "OPt",
+                        "nodes": [],
+                        "id": 85,
+                        "name": "Occipito-parietal transitional area of cortex"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "PE",
+                        "color_code": "#E9EF76",
+                        "abbrev": "PE",
+                        "nodes": [],
+                        "id": 87,
+                        "name": "Parietal area PE"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "PEC",
+                        "color_code": "#D2DF00",
+                        "abbrev": "PEC",
+                        "nodes": [],
+                        "id": 88,
+                        "name": "Parietal area PE, caudal part"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "PF",
+                        "color_code": "#D4DF3B",
+                        "abbrev": "PF",
+                        "nodes": [],
+                        "id": 89,
+                        "name": "Parietal area PF (cortex)"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "PFG",
+                        "color_code": "#F0FF3B",
+                        "abbrev": "PFG",
+                        "nodes": [],
+                        "id": 90,
+                        "name": "Parietal area PFG (cortex)"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "PG",
+                        "color_code": "#F8FFB2",
+                        "abbrev": "PG",
+                        "nodes": [],
+                        "id": 91,
+                        "name": "Parietal area PG"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "VIP",
+                        "color_code": "#E6FF00",
+                        "abbrev": "VIP",
+                        "nodes": [],
+                        "id": 135,
+                        "name": "Ventral intraparietal area of cortex"
+                      }
+                    ],
+                    "id": 94,
+                    "name": "Posterior parietal cortex"
+                  },
+                  {
+                    "is_leaf": false,
+                    "human_readable_abbrev": "PCR",
+                    "color_code": "#DFD22C",
+                    "abbrev": "PCR",
+                    "nodes": [
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A29a-c",
+                        "color_code": "#DFD13B",
+                        "abbrev": "A29a-c",
+                        "nodes": [],
+                        "id": 21,
+                        "name": "Area 29a-c of cortex"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A29d",
+                        "color_code": "#EFE676",
+                        "abbrev": "A29d",
+                        "nodes": [],
+                        "id": 22,
+                        "name": "Area 29d of cortex"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A30",
+                        "color_code": "#FFEF00",
+                        "abbrev": "A30",
+                        "nodes": [],
+                        "id": 23,
+                        "name": "Area 30 of cortex"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A23a",
+                        "color_code": "#FFF6B2",
+                        "abbrev": "A23a",
+                        "nodes": [],
+                        "id": 13,
+                        "name": "Area 23a of cortex"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A23b",
+                        "color_code": "#EFDC3B",
+                        "abbrev": "A23b",
+                        "nodes": [],
+                        "id": 14,
+                        "name": "Area 23b of cortex"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A23c",
+                        "color_code": "#DFD576",
+                        "abbrev": "A23c",
+                        "nodes": [],
+                        "id": 15,
+                        "name": "Area 23c of cortex"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A23V",
+                        "color_code": "#FFE73B",
+                        "abbrev": "A23V",
+                        "nodes": [],
+                        "id": 12,
+                        "name": "Area 23 of cortex, ventral part"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A31",
+                        "color_code": "#FFF876",
+                        "abbrev": "A31",
+                        "nodes": [],
+                        "id": 24,
+                        "name": "Area 31 of cortex"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "PGM",
+                        "color_code": "#DFD600",
+                        "abbrev": "PGM",
+                        "nodes": [],
+                        "id": 92,
+                        "name": "Parietal area PG, medial part (cortex)"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "ProSt",
+                        "color_code": "#EFE700",
+                        "abbrev": "ProSt",
+                        "nodes": [],
+                        "id": 104,
+                        "name": "Prostriate area"
+                      }
+                    ],
+                    "id": 86,
+                    "name": "Posterior cingulate medial and retrosplenial cortical regions"
+                  },
+                  {
+                    "is_leaf": false,
+                    "human_readable_abbrev": "VIS",
+                    "color_code": "#C1EF85",
+                    "abbrev": "VIS",
+                    "nodes": [
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A19DI",
+                        "color_code": "#D1FF85",
+                        "abbrev": "A19DI",
+                        "nodes": [],
+                        "id": 10,
+                        "name": "Area 19 of cortex, dorsointermediate part"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "A19M",
+                        "color_code": "#93EF00",
+                        "abbrev": "A19M",
+                        "nodes": [],
+                        "id": 11,
+                        "name": "Area 19 of cortex, medial part"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "FST",
+                        "color_code": "#99DF2C",
+                        "abbrev": "FST",
+                        "nodes": [],
+                        "id": 71,
+                        "name": "Fundus of superior temporal sulcus area of cortex"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "MST",
+                        "color_code": "#A9DF59",
+                        "abbrev": "MST",
+                        "nodes": [],
+                        "id": 81,
+                        "name": "Medial superior temporal area of cortex"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "V1",
+                        "color_code": "#BBFF59",
+                        "abbrev": "V1",
+                        "nodes": [],
+                        "id": 126,
+                        "name": "Primary visual cortex"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "V2",
+                        "color_code": "#C3EF85",
+                        "abbrev": "V2",
+                        "nodes": [],
+                        "id": 127,
+                        "name": "Visual area 2"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "V3(VLP)",
+                        "color_code": "#80DF00",
+                        "abbrev": "V3(VLP)",
+                        "nodes": [],
+                        "id": 128,
+                        "name": "Visual area 3 (ventrolateral posterior area)"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "V3A(DA)",
+                        "color_code": "#A4FF2C",
+                        "abbrev": "V3A(DA)",
+                        "nodes": [],
+                        "id": 129,
+                        "name": "Visual area 3A (dorsoanterior area)"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "V4(VLA)",
+                        "color_code": "#8EFF00",
+                        "abbrev": "V4(VLA)",
+                        "nodes": [],
+                        "id": 130,
+                        "name": "Visual area 4 (ventrolatereral anterior area)"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "V4T(MTC)",
+                        "color_code": "#98EF2C",
+                        "abbrev": "V4T(MTC)",
+                        "nodes": [],
+                        "id": 131,
+                        "name": "Visual area 4, transitional part (middle temporal crescent)"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "V5(MT)",
+                        "color_code": "#B6DF85",
+                        "abbrev": "V5(MT)",
+                        "nodes": [],
+                        "id": 132,
+                        "name": "Visual area 5 (middle temporal area)"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "V6(DM)",
+                        "color_code": "#A9EF59",
+                        "abbrev": "V6(DM)",
+                        "nodes": [],
+                        "id": 133,
+                        "name": "Visual area 6 (dorsomedial area)"
+                      },
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "V6A(PPM)",
+                        "color_code": "#6DCF00",
+                        "abbrev": "V6A(PPM)",
+                        "nodes": [],
+                        "id": 134,
+                        "name": "Visual area 6A (posterior parietal medial area)"
+                      }
+                    ],
+                    "id": 136,
+                    "name": "Visual cortex"
+                  }
+                ],
+                "id": 69,
+                "name": "Dorsal pallium"
+              },
+              {
+                "is_leaf": false,
+                "human_readable_abbrev": "VPal",
+                "color_code": "#B2FFE7",
+                "abbrev": "VPal",
+                "nodes": [
+                  {
+                    "is_leaf": false,
+                    "human_readable_abbrev": "PirC",
+                    "color_code": "#00FFAB",
+                    "abbrev": "PirC",
+                    "nodes": [
+                      {
+                        "is_leaf": true,
+                        "human_readable_abbrev": "Pir",
+                        "color_code": "#00FFA5",
+                        "abbrev": "Pir",
+                        "nodes": [],
+                        "id": 100,
+                        "name": "Piriform cortex"
+                      }
+                    ],
+                    "id": 101,
+                    "name": "Piriform cortex"
+                  }
+                ],
+                "id": 138,
+                "name": "Ventral pallium"
+              },
+              {
+                "is_leaf": true,
+                "human_readable_abbrev": "PalAmyg",
+                "color_code": "#00C8FF",
+                "abbrev": "PalAmyg",
+                "nodes": [],
+                "id": 99,
+                "name": "Pallial amygdala"
+              },
+              {
+                "is_leaf": false,
+                "human_readable_abbrev": "LatPal",
+                "color_code": "#00FF2C",
+                "abbrev": "LatPal",
+                "nodes": [
+                  {
+                    "is_leaf": true,
+                    "human_readable_abbrev": "APir",
+                    "color_code": "#00FF26",
+                    "abbrev": "APir",
+                    "nodes": [],
+                    "id": 52,
+                    "name": "Amygdalopiriform transition area"
+                  }
+                ],
+                "id": 78,
+                "name": "Lateropallial part"
+              }
+            ],
+            "id": 98,
+            "name": "Pallium"
+          }
+        ],
+        "id": 125,
+        "name": "Telencephalon"
+      }
+    ],
+    "id": 102,
+    "name": "Prosencephalon"
+  }
+}
