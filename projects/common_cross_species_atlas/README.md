@@ -36,6 +36,7 @@ Launch a notebook to reproduce all quantitative results and figures:
 jupyter notebook CHA_<notebook 1, 2, or 3>.ipynb
 ```
 All figures are displayed inline within the notebook.
+
 ---
 ## Integrate your own atlas or connectome
 The notebooks above reproduce the manuscript analyses and figures. To apply the
@@ -64,6 +65,7 @@ module is the standalone path for new data.
 
 The `containment` step requires `nibabel`; `assign` and `project` need only
 `numpy` and `pandas`.
+
 ---
 ## Data Organization
 The `data/` folder contains the subdirectories required for the analyses:
@@ -77,6 +79,7 @@ Please follow the **license information provided in each atlas’s `license.txt`
 ## Reproducibility
 All analyses and plots are produced directly from the provided data using deterministic processing steps.  
 Dependency versions are pinned in `requirements.txt` to ensure compatibility.
+
 ---
 ## Citation
 Please cite both the manuscript and this repository:
